@@ -9,7 +9,7 @@ class App extends Component{
 render(){
   return(
     <div className="App">
-      Fit eiei eiei unreal got  {x}
+      Hello World {x}
       <Content/>
       
     </div>
